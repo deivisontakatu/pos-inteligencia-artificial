@@ -1,0 +1,48 @@
+Relatórios Disney
+=================
+
+Total de obras: 871
+Total de filmes: 680
+Total de séries: 191
+
+Média IMDB: 6.58
+
+Média Metascore: 62.06
+
+Média de votos Imdb: 79103
+
+3 idiomas que mais aparecem:
+ - English: 842
+ - French: 34
+ - Spanish: 31
+3 idiomas que menos aparecem:
+ - Klingon: 1
+ - Bengali: 1
+ - Telugu: 1
+3 atores que mais aparecem:
+ - Clarence Nash: 31
+ - Jim Cummings: 26
+ - Pinto Colvig: 23
+3 atores que menos aparecem:
+ - Ginnifer Goodwin: 1
+ - Jason Bateman: 1
+ - Jenny Slate: 1
+Diretor com mais filmes: Wilfred Jackson (20 filmes)
+
+Diretor do filme mais bem avaliado no IMDB: Irvin Kershner (Filme: Star Wars: Episode V - The Empire Strikes Back, Nota: 8.7)
+Diretor do filme mais bem avaliado no Metascore: Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney, Hamilton Luske, Bill Roberts, Ben Sharpsteen (Filme: Pinocchio, Nota: 99)
+Ano com mais filmes lançados: 2019 (29 filmes)
+
+Pior série segundo IMDB: Bizaardvark (Nota: 3.5)
+Nenhuma série possui nota Metascore.
+Filmes com múltiplos lançamentos (remakes):
+ - Aladdin: 1992, 2019
+ - Alice in Wonderland: 1951, 2010
+ - Frankenweenie: 1984, 2012
+ - Freaky Friday: 1976, 2003, 2018
+ - Lady and the Tramp: 1955, 2019
+ - Pete's Dragon: 1977, 2016
+ - Swiss Family Robinson: 1940, 1960
+ - The Lion King: 1994, 2019
+ - The Parent Trap: 1961, 1998
+ - The Prince and the Pauper: 1962, 1990
