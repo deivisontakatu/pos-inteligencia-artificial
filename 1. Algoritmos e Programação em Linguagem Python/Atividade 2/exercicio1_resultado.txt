@@ -1,0 +1,10 @@
+1 é ímpar
+2 é par
+3 é ímpar
+4 é par
+5 é ímpar
+6 é par
+7 é ímpar
+8 é par
+9 é ímpar
+10 é par
