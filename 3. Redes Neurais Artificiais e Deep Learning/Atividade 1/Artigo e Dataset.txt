@@ -1,0 +1,6 @@
+Artigo: Students’ online learning adaptability and their continuous usage intention across different disciplinesLinks para um site externo.
+Link: https://www.nature.com/articles/s41599-023-02376-5.pdf
+Referência: LI, Zheng et al. Students’ online learning adaptability and their continuous usage intention across different disciplines. Humanities and Social Sciences Communications, v. 10, n. 1, p. 1-10, 2023.
+Dataset: Students Adaptability Level in Online EducationLinks para um site externo.
+Link: https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
+Justificativa: Análise da capacidade dos estudantes de se adaptar ao ensino online, considerando fatores tecnológicos, cognitivos, emocionais e contextuais educacionais.
