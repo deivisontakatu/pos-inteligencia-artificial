@@ -1,7 +1,0 @@
-1.0: Positivo
-2.0: Positivo
--3.0: Negativo
-3.0: Positivo
-4.0: Positivo
-5.0: Positivo
-100.0: Positivo

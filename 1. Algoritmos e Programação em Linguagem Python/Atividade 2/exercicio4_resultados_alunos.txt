@@ -1,6 +1,0 @@
-Alice: Aprovado
-Bruno: Reprovado
-Carla: Aprovado
-Daniel: Reprovado
-Eduardo: Aprovado
-Helena: Aprovado
