@@ -1,0 +1,8 @@
+Alice,8.5,7.0,9.0
+Bruno,6.0,5.5,6.5
+Carla,10,9.5,9.0
+Daniel,4.0,6.0,5.0
+Eduardo,7.0,7.0,7.0
+Fernanda,abc,8.0,9.0
+Gabriel,8.0,9.0
+Helena,9.0,8.5,10.0
